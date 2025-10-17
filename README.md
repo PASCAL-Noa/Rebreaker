@@ -1,6 +1,6 @@
 # 🎮 Rebreaker – The Neon-Powered Brick Breaker Revolution! ⚡
 
-> Directly download the [lasted release](https://github.com/Razar30/Rebreaker/releases/), unzip, and enjoy the game ! \
+> Directly download the [lasted release](https://github.com/PASCAL-Noa/Rebreaker/releases/), unzip, and enjoy the game ! \
 > Or you can download the repository to read code.
 
 Dive into Rebreaker, a high-energy brick breaker that blends retro nostalgia with stunning neon visuals! Inspired by the legendary Atari classic, this game cranks up the action with vibrant shaders, an electrifying atmosphere, and adrenaline-pumping mechanics.
